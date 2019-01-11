@@ -13,6 +13,11 @@ import javax.swing.JLabel;
  */
 public class VentnaCalculadora extends javax.swing.JFrame {
 
+    double operando1 = 0; //primer operando
+    
+    String operacion = ""; // 
+    
+    
     /**
      * Creates new form VentnaCalculadora
      */
